@@ -1,4 +1,4 @@
-
+## Individual Lab- Chrys Elisée Gnagne
 ```markdown
 # deploy_agent_Pirate13Thebes
 
@@ -58,3 +58,10 @@ When prompted during setup, you can override the default thresholds:
 - **Failure** (default: 50%) — students below this are at risk of failing
 
 The script uses `sed` to edit `config.json` in-place with the new values.
+
+## Run-Through Video
+
+[Watch the full walkthrough here]
+https://drive.google.com/file/d/1F0yutrzY7ZOAcvXuk-7YGepU8abtawTy/view?usp=sharing
+
+
